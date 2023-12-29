@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/Ruinzchecker-12-29">
+  <img src="https://i.hizliresim.com/8hx23ap.jpg">
 </p>
 # Features Of Tg-views TOOLS ❤️
 

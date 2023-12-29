@@ -1,5 +1,5 @@
 # Tg-view
-ᴛʜɪs ʀᴇᴘᴏ ɪs ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴏɴʟʏ ғᴏʀ ᴇᴅᴜᴄᴀᴛɪᴏɴ ɴᴏᴛ ғᴏʀ sᴇʟʟ
+
 
 <h2 align="center">
     ──「 Tg-views Tools 」──

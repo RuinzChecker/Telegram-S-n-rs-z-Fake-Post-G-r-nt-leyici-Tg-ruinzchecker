@@ -13,7 +13,7 @@
 <details>
 <summary><b>Install all cmds :</b></summary><br>
 
-     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/RuinzChecker/Telegram-S-n-rs-z-Fake-Post-G-r-nt-leyici-Tg-ruinzchecker
+     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/RuinzChecker/Telegram-S-n-rs-z-Fake-Post-G-r-nt-leyici-Tg-ruinzchecker/tree/main
      cd Tg-view
      ls
      pip install -r requirements.txt

@@ -135,7 +135,7 @@ def tui():
     while True:
         print(logo)
         print(f'''{B}[ ᴅᴀᴛᴀ ]: {G}{channel.capitalize()}/{post}
-{B}[ ʟɪᴠᴇ ᴠɪᴇᴡs ]: {G}{real_views} ✅
+{B}[ ʟɪᴠᴇ ᴠɪᴇᴡs ]: {G}{real_views} ❤️
  
 {S}[ ᴄᴏɴɴᴇᴄᴛɪᴏɴ ᴇʀʀᴏʀs ]: {E}{proxy_errors} 🚫
 {S}[ ᴛᴏᴋᴇɴ ᴇʀʀᴏʀs ]: {E}{token_errors} ❌

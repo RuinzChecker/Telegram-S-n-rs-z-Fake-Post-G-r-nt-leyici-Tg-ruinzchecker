@@ -6,14 +6,14 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/ee246c62744784b0e44df.jpg">
+  <img src="https://graph.org/Ruinzchecker-12-29">
 </p>
 # Features Of Tg-views TOOLS ❤️
 
 <details>
 <summary><b>Install all cmds :</b></summary><br>
 
-     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/shivay-xd/Tg-view
+     apt update && apt upgrade && pkg install python && pkg install git && git clone https://github.com/RuinzChecker/Telegram-S-n-rs-z-Fake-Post-G-r-nt-leyici-Tg-ruinzchecker
      cd Tg-view
      ls
      pip install -r requirements.txt

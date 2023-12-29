@@ -140,19 +140,19 @@ def tui():
 {S}[ ᴄᴏɴɴᴇᴄᴛɪᴏɴ ᴇʀʀᴏʀs ]: {E}{proxy_errors} 🚫
 {S}[ ᴛᴏᴋᴇɴ ᴇʀʀᴏʀs ]: {E}{token_errors} ❌
  
-{G}[ ᴛʜʀᴇᴀᴅs ]: {B}{active_count()} ⇝⇝⇝⇝ ''')
+{G}[ ᴛʜʀᴇᴀᴅs ]: {B}{active_count()}  ''')
         sleep(2);system('cls' if name == 'nt' else 'clear')
 
 system('cls' if name == 'nt' else 'clear')
 print(logo)
-channel, post = input(f"\n{G}[+] ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴇᴡ ᴘᴏsᴛ ᴜʀʟ 🤍 ==> {S}").replace('https://t.me/', '').split('/')
+channel, post = input(f"\n{G}[+]  🤍 ==> {S}").replace('https://t.me/', '').split('/')
 
 try:
     search('<span class="tgme_widget_message_views">([^<]+)', requests.get(f'https://t.me/{channel}/{post}',
     params={'embed': '1', 'mode': 'tme'}, headers={'referer': f'https://t.me/{channel}/{post}', 'user-agent': USER_AGENT}).text).group(1)
 except: print(f'{E}[×] Error | Channel Or Post Not Found!');sleep(3);exit()
 else:
-    print(f'{G}[√]sᴛᴀʀᴛᴇᴅ | ᴡᴀɪᴛ ғᴇᴡ sᴇᴄᴏɴᴅs ᴛᴏ ʀᴜɴ ᴛʜʀᴇᴀᴅs')
+    print(f'{G}')
     Thread(target=start_view).start()
     Thread(target=check_views).start()
     sleep(7.5);system('cls' if name == 'nt' else 'clear')
